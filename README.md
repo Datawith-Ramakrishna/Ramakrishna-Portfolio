@@ -1,16 +1,75 @@
-# React + Vite
+# 🚀 Ramakrishna Reddy – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal developer portfolio showcasing selected projects, technical skills, and professional experience in web development.
 
-Currently, two official plugins are available:
+Built to highlight my expertise in **.NET backend development**, **React frontend applications**, and full-stack architecture.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌐 Live Website
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 [View Portfolio](https://ramakrishna-portfolio.vercel.app)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👨‍💻 About Me
+
+I am a Master’s student in Computer Science (Digital Media) at Bauhaus-Universität Weimar with over two years of professional experience in web development.
+
+My primary focus is:
+
+- Designing and building RESTful APIs using C# and ASP.NET Core  
+- Developing modern, responsive web interfaces using React  
+- Working with SQL databases and performance optimization  
+- Collaborating in Agile development environments  
+
+I care about writing clean, maintainable code and delivering reliable, production-ready solutions.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Tailwind CSS
+- Framer Motion
+
+**Backend Experience**
+- C#
+- .NET / ASP.NET Core
+- REST APIs
+- Entity Framework Core
+- JWT Authentication
+
+**DevOps & Tools**
+- Git
+- Docker
+- Azure DevOps
+- SQL Server
+- MySQL
+
+---
+
+## ✨ Features
+
+- Responsive modern UI
+- Featured project highlights
+- GitHub integration
+- Downloadable resume (English & German)
+- Clean and professional layout
+- Deployed using Vercel
+
+---
+
+
+## 🚀 Running Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Datawith-Ramakrishna/ramakrishna-portfolio.git
+cd ramakrishna-portfolio
+npm install
+npm run dev
