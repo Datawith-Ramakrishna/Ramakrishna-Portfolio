@@ -1,27 +1,28 @@
 import { ArrowUpRight } from "lucide-react";
 
 const featured = [
+    {
+    title: "Portfolio",
+    subtitle: "React • Tailwindcss • Vercel",
+    description:
+      "Developed and designed my personal portfolio using React and Tailwind CSS, and deployed it on Vercel for fast and reliable hosting.l",
+    href: "https://github.com/Datawith-Ramakrishna/Ramakrishna-Portfolio", 
+  },
   {
     title: "Task Management System",
     subtitle: "ASP.NET Core Web API • Entity Framework • SQL Server",
     description:
       "Built REST APIs for tasks and users with CRUD operations, clean API structure, and database integration.",
-    href: "https://github.com/Datawith-Ramakrishna", // replace with exact repo link
+    href: "https://github.com/Datawith-Ramakrishna/Student-Task-Management-System", 
   },
   {
     title: "Music Parameter Visualization",
     subtitle: "D3.js • Interactive Data Visualization",
     description:
       "Interactive web visualization of music parameters like tempo and danceability using D3.js.",
-    href: "https://github.com/Datawith-Ramakrishna", // replace with exact repo link
+    href: "https://github.com/Datawith-Ramakrishna/Music_Parameter_Visualization", 
   },
-  {
-    title: "PKI System",
-    subtitle: "OpenSSL • Bash • Linux",
-    description:
-      "Implemented certificate generation/validation and lifecycle scripting using OpenSSL under Linux.",
-    href: "https://github.com/Datawith-Ramakrishna", // replace with exact repo link
-  },
+
 ];
 
 export default function FeaturedProjects() {
