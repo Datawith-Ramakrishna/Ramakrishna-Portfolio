@@ -149,7 +149,7 @@ export default function App() {
                 </Pill>
                 <Pill>
                   <MapPin className="mr-2 h-3.5 w-3.5" />
-                  Open to relocate (Gießen)
+                  Open to relocate 
                 </Pill>
                 <Pill>M.Sc. Computer Science (Bauhaus-Universität Weimar)</Pill>
               </div>
